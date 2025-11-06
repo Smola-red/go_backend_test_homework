@@ -6,7 +6,7 @@ import (
 
 func Add(a, b int) int {
 	return a + b
-}
+} //dsdds
 
 func main() {
 	fmt.Println("Я домашка")
